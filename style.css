@@ -64,5 +64,6 @@ p {
 footer {
   font-size: clamp(0.8rem, 1vw, 1.06rem);
   flex-shrink: 0;
+  text-align: center;
   color: hsl(216, 15%, 48%);
 }
